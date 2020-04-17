@@ -5,7 +5,8 @@
       ],
       "current":[
          "15701055"
-      ]
+      ],
+      "img":"https://www.raspberrypi.org/homepage-9df4b/static/0ac033e17962a041a898d92057e60def/052d8/67d8fcc5b2796665a45f61a2e8a5bb7f10cdd3f5_raspberry-pi-3-1-1619x1080.jpg"
    },
    "Arduino Uno R3":{
       "owner":[
@@ -15,6 +16,7 @@
       "current":[
          "17701086",
          "17701086"
-      ]
+      ],
+      "img":"https://store-cdn.arduino.cc/usa/catalog/product/cache/1/image/520x330/604a3538c15e081937dbfbd20aa60aad/a/0/a000066_featured_5.jpg"
    }
 }
