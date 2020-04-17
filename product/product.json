@@ -1,8 +1,20 @@
 {
-  "Raspberry Pi Model B-1":[
-    "15701055"
-  ],
-  "Arduino Uno R3":[
-  "15701055","17701086"
-  ]
+   "Raspberry Pi Model B-1":{
+      "owner":[
+         "15701055"
+      ],
+      "current":[
+         "15701055"
+      ]
+   },
+   "Arduino Uno R3":{
+      "owner":[
+         "15701055",
+         "17701086"
+      ],
+      "current":[
+         "17701086",
+         "17701086"
+      ]
+   }
 }
